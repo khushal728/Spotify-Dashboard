@@ -21,8 +21,7 @@ This project takes raw Spotify listening data and turns it into a clean, dynamic
 - **Monthly Listening Trends:** Discover peak music months
 
 ## 🖼️ Dashboard Preview
-
-> [Watch the dashboard walkthrough](#) https://github.com/user-attachments/assets/c81ceae4-6a02-4fb6-9cbe-762c932e538a
+Watch the live demo here: [Spotify Dashboard]https://github.com/user-attachments/assets/c81ceae4-6a02-4fb6-9cbe-762c932e538a
 
 ## 🧠 What I Learned
 - Data wrangling and preparation using Excel
