@@ -12,8 +12,8 @@ This project takes raw Spotify listening data and turns it into a clean, dynamic
 - 🎵 **Spotify Listening History** — exported from Spotify Wrapped / Spotify API
 
 ## 📈 Key Features
-- **Top Artist:** Arijit Singh  
-- **Most Played Track:** Kesariya  
+- **Top Artist:** Ed Sheeran  
+- **Most Played Track:** Shape of You
 - **Total Tracks Analyzed:** 1,253  
 - **Total Listening Time:** 85+ hours  
 - **Track Duration Distribution:** Avg ~3.5 minutes  
@@ -21,7 +21,8 @@ This project takes raw Spotify listening data and turns it into a clean, dynamic
 - **Monthly Listening Trends:** Discover peak music months
 
 ## 🎥 Live Demo
-Watch the live demo here: [Spotify Dashboard](https://github.com/user-attachments/assets/c81ceae4-6a02-4fb6-9cbe-762c932e538a)
+Watch the live demo here:
+[Spotify Dashboard](https://github.com/user-attachments/assets/c81ceae4-6a02-4fb6-9cbe-762c932e538a)
 
 ## 🧠 What I Learned
 - Data wrangling and preparation using Excel
