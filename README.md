@@ -22,8 +22,7 @@ This project takes raw Spotify listening data and turns it into a clean, dynamic
 
 ## 🖼️ Dashboard Preview
 
-> _[Embed video/GIF or link to video walkthrough]_  
-> [Watch the dashboard walkthrough](#) *(Add your video link here)*
+> [Watch the dashboard walkthrough](#) https://github.com/user-attachments/assets/c81ceae4-6a02-4fb6-9cbe-762c932e538a
 
 ## 🧠 What I Learned
 - Data wrangling and preparation using Excel
